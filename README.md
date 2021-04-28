@@ -1,7 +1,6 @@
 # blackjack
 Juego de Blackjack creado con JavaScript: 
-
-Podrás elegir tu nombre de jugador y comenzar el juego. 
+  - Podrás elegir tu nombre de jugador y comenzar el juego. 
 
 Para ganar pográs pedir tantas cartas como desees o plantarte cuando quieras. 
 
